@@ -1,3 +1,15 @@
 * {
-	
+}
+
+h1 {
+	margin-bottom: 50px;
+}
+
+.chicken {
+	background-color: grey;
+	height: 1000px;
+}
+
+.chicken p {
+	padding: 10px;
 }
